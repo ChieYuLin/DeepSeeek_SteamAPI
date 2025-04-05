@@ -2,4 +2,4 @@
 Using SteamAPI to extract all in-storage info
 
 
-![My Image]([https://example.com/image.png](https://github.com/ChieYuLin/DeepSeeek_SteamAPI/blob/main/cover.png))
+![Logo](cover.png)
