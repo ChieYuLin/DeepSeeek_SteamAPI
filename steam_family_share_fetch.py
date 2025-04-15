@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup  #核心是用Beautiful Soup这个包
 import pandas as pd
 
 '''
-替换为你的 Steam 页面地址（确保你的游戏库设置为公开）
+下面URL替换为你的 Steam 页面地址（确保你的游戏库设置为公开）
 '''
 
-STEAM_PROFILE_URL = "https://steamcommunity.com/profiles/76561198426747673/games/?tab=all"
+STEAM_PROFILE_URL = "https://steamcommunity.com/profiles/7623452284264547673/games/?tab=all"
 
 headers = {
     'User-Agent': 'Mozilla/5.0'
